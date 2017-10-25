@@ -1,0 +1,56 @@
+[
+{
+    "domain": ".wikipedia.org",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "GeoIP",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "TW:CHA::13.21:22.41:v4",
+    "id": 1
+},
+{
+    "domain": ".wikipedia.org",
+    "expirationDate": 1511697600.865942,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "WMF-Last-Access-Global",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "25-Oct-2017",
+    "id": 2
+},
+{
+    "domain": "www.wikipedia.org",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "CP",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "H2",
+    "id": 3
+},
+{
+    "domain": "www.wikipedia.org",
+    "expirationDate": 1511697601.085095,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "WMF-Last-Access",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "25-Oct-2017",
+    "id": 4
+}
+]

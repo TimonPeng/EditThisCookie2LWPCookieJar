@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: GeoIP="TW:CHA::13.21:22.41:v4"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; HttpOnly=False; version=0
+Set-Cookie3: WMF-Last-Access-Global="25-Oct-2017"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2017-11-26 12:00:00Z"; HttpOnly=True; version=0
+Set-Cookie3: CP=H2; path="/"; domain="www.wikipedia.org"; path_spec; secure; HttpOnly=False; version=0
+Set-Cookie3: WMF-Last-Access="25-Oct-2017"; path="/"; domain="www.wikipedia.org"; path_spec; secure; expires="2017-11-26 12:00:01Z"; HttpOnly=True; version=0
